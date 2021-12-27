@@ -1,3 +1,3 @@
 # Tasklist
 
-### Task list made with python and SQLite
+Task list made with python and SQLite
